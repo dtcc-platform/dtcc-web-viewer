@@ -1,0 +1,12 @@
+{
+  "packages": ["packages/*", "projects/*"],
+  "npmClient": "npm",
+  "command": {
+    "publish": {
+      "ignoreChanges": ["**/*.md"],
+      "message": "chore(release): publish"
+    },
+    "bootstrap": {}
+  },
+  "version": "1.0.0"
+}
