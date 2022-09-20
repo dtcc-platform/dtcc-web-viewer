@@ -1,6 +1,6 @@
 # DTCC Viewer
 
-DTCC Viewer is the online viwer for the DTCC Platform.
+DTCC Viewer is the online viewer for DTCC Platform.
 
 This project is part the
 [Digital Twin Platform (DTCC Platform)](https://gitlab.com/dtcc-platform)
